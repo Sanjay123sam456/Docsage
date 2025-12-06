@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Sanjay123sam456)
+- GitHub: [Sanjay123sam456](https://github.com/Sanjay123sam456)
 
 
 ---
